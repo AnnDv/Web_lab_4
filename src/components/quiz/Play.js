@@ -102,7 +102,7 @@ class Play extends Component {
         M.toast({
             html: "Correct Answer!",
             classes: "toast-valid",
-            displayLength: 1500
+            displayLength: 400
         });
         this.setState(prevState => ({
             score: prevState.score + 1,
@@ -123,7 +123,7 @@ class Play extends Component {
         M.toast({
             html: "Wrong Answer!",
             classes: "toast-invalid",
-            displayLength: 1500
+            displayLength: 400
         });
         this.setState(prevState => ({
             wrongAnswers: prevState.wrongAnswers + 1,
@@ -226,7 +226,7 @@ class Play extends Component {
 
         
         console.log(playerStats);
-        if (window.confirm('Your score: ' + score + '%')) {
+        if (window.confirm(['Your score: ' + score + '%'], )) {
         }
     }
 
@@ -244,6 +244,7 @@ class Play extends Component {
                     url={quizSong}
                     playStatus="PLAYING"
                     loop={true} 
+                    volume={50}
                 />
                 
                 <div id="questions">
@@ -273,7 +274,7 @@ class Play extends Component {
                             <button className={classNames("", {'disable': this.state.previousButtonDisabled})} id="previousButton" onClick={this.handlePreviousButtonClick}>Previous</button>
                             <button className={classNames("", {'disable': this.state.nextButtonDisabled})} id="nextButton" onClick={this.handleNextButtonClick}>Next</button>
                             <Link to="/"><button id="quitButton" onClick={this.handleQuitButtonClick}>Quit</button></Link>
-                            <Link to="/"><button id="summaryButton" className={classNames("", {'disable': this.state.summaryButtonDisabled})} onClick={this.endGame}>Summary</button></Link>
+                            {/* <Link to="/"><button id="summaryButton" className={classNames("", {'disable': this.state.summaryButtonDisabled})} onClick={this.endGame}>Summary</button></Link> */}
                         </div>
                     </section>
                     

@@ -24,86 +24,6 @@
         "answer": "1977"
     },
     {
-        "question": "Princess Leia is princess of which planet? ",
-        "optionA": "Alderaan",
-        "optionB": "Yavin",
-        "optionC": "Endor",
-        "optionD": "Dagobah",
-        "answer": "Alderaan"
-    },
-    {
-        "question": "What species is Chewbacca?",
-        "optionA": "Wookie",
-        "optionB": "Ewok",
-        "optionC": "Bantha",
-        "optionD": "Hut",
-        "answer": "Wookie"
-    },
-    {
-        "question": "How many parsecs did the Millenium Falcon take for the Kessel Run?",
-        "optionA": "14",
-        "optionB": "12",
-        "optionC": "4",
-        "optionD": "9",
-        "answer": "12"
-    },
-    {
-        "question": "Who created the Star Wars film series?",
-        "optionA": "George Lucas",   
-        "optionB": "Steven Speilberg",
-        "optionC": "JK Rowling",
-        "optionD": "James Cameron",
-        "answer": "George Lucas"
-    },
-    {
-        "question": "What is the birth name of Darth Vader?",
-        "optionA": "Darth Vader",
-        "optionB": "Obi Wan",
-        "optionC": "Anakin",
-        "optionD": "Aragorn",
-        "answer": "Anakin"
-    },
-    {
-        "question": "AT-AT (All Terrain Armored Transport) Walkers make their first appearance in which Star Wars film?",
-        "optionA": "Attack of the Clones",
-        "optionB": "Last Jedi",
-        "optionC": "Empire Strikes Back",
-        "optionD": "Return of the Jedi",
-        "answer": "Empire Strikes Back"
-    },
-    {
-        "question": "How is the shape shifting Clawdite Zam Wesell killed?",
-        "optionA": "Stabbed",
-        "optionB": "Lightsaber",
-        "optionC": "Emperor Palpatine",
-        "optionD": "Toxic Dart",
-        "answer": "Toxic Dart"
-    },
-    {
-        "question": "Where was Jar Jar Binks from?",
-        "optionA": "Degobah",
-        "optionB": "Naboo",
-        "optionC": "Yavin", 
-        "optionD": "Coruscant",
-        "answer": "Naboo"
-    },
-    {
-        "question": "What color is Yoda's lightsaber?",
-        "optionA": "Purple",
-        "optionB": "Blue",
-        "optionC": "Green",
-        "optionD": "Yellow",
-        "answer": "Green"
-    },
-    {
-        "question": "How many years does Force Awaken take place after Return fo the Jedi?",
-        "optionA": "3",
-        "optionB": "25",
-        "optionC": "30",
-        "optionD": "18",
-        "answer": "30"
-    },
-    {
         "question": "What's the icy planet's name in Empire Strikes Back?",
         "optionA": "Endor",
         "optionB": "Hoth",
@@ -118,14 +38,6 @@
         "optionC": "Over 6 million",
         "optionD": "Over 100",
         "answer": "Over 6 million"
-    },
-    {
-        "question": "How many players in the Cantina Band?",
-        "optionA": "4",
-        "optionB": "7",
-        "optionC": "10",
-        "optionD": "3",
-        "answer": "7"
     },
     {
         "question": "Which large, slug-like creature is the most powerful crime boss on Tatooine?",
@@ -158,6 +70,135 @@
         "optionC": "Kylo-Ren",
         "optionD": "Smaug",
         "answer": "Snoke"
+    },
+    {
+        "question": "What's the name of Han Solo's ship?",
+        "optionA": "Slave I",
+        "optionB": "Millenium Eagle",
+        "optionC": "Executor",
+        "optionD": "Millenium Falcon",
+        "answer": "Millenium Falcon"
+    },
+
+    {
+        "question": "What planet are Wookies from?",
+        "optionA": "Yavin",
+        "optionB": "Kashyyyk",
+        "optionC": "Tattoine",
+        "optionD": "Endor",
+        "answer": "Kashyyyk"
+    },
+    {
+        "question": "Who is Luke and Leia's mother?",
+        "optionA": "Padme Amidala",
+        "optionB": "Queen Latifa",
+        "optionC": "Ashoka",
+        "optionD": "Mon Mothma",
+        "answer": "Padme Amidala"
+    },
+    {
+        "question": "What kind of species is Sebulba?",
+        "optionA": "Wookie",
+        "optionB": "Gun-gun",
+        "optionC": "Hut",
+        "optionD": "Dug",
+        "answer": "Dug"
+    },
+    {
+        "question": "What invisible power binds the galaxy together?",
+        "optionA": "The Force",
+        "optionB": "Light saber",
+        "optionC": "Atoms",
+        "optionD": "The Tokens",
+        "answer": "The Force"
+    },
+    {
+        "question": "Where does Yoda go to live after the Jedi purge?",
+        "optionA": "Yavin",
+        "optionB": "Endor",
+        "optionC": "Tatooine",
+        "optionD": "Dagobah",
+        "answer": "Dagobah"
+    },
+    {
+        "question": "What color is Mace Windu's lightsaber?",
+        "optionA": "Purple",
+        "optionB": "Red",
+        "optionC": "Green",
+        "optionD": "Blue",
+        "answer": "Purple"
+    },
+    {
+        "question": "Which planet is covered in water, and where the clones were made?",
+        "optionA": "Coruscant",
+        "optionB": "Tatooine",
+        "optionC": "Kamino",
+        "optionD": "Kashyyyk",
+        "answer": "Kamino"
+    },
+    {
+        "question": "Who is Jango Fett's son?",
+        "optionA": "Boba",
+        "optionB": "Snoke",
+        "optionC": "Kylo-Ren",
+        "optionD": "Anakin",
+        "answer": "Boba"
+    },
+    {
+        "question": "Who is also known as Emperor Palpatine?",
+        "optionA": "Darth Sidious",
+        "optionB": "Snoke",
+        "optionC": "Darth Vader",
+        "optionD": "Count Dooku",
+        "answer": "Darth Sidious"
+    },
+    {
+        "question": "How did Obi-Wan kill Grievous?",
+        "optionA": "Light saber",
+        "optionB": "Knife",
+        "optionC": "Laser Blaster",
+        "optionD": "Fire",
+        "answer": "Laser Blaster"
+    },
+    {
+        "question": "Who said 'it's a trap'?",
+        "optionA": "Ackbar",
+        "optionB": "Lando",
+        "optionC": "Obi Wan",
+        "optionD": "Anakin",
+        "answer": "Ackbar"
+    },
+    {
+        "question": "How many Sith are always there?",
+        "optionA": "One",
+        "optionB": "Two",
+        "optionC": "Three",
+        "optionD": "Four",
+        "answer": "Two"
+    },
+    {
+        "question": "Who killed Jabba the Hutt?",
+        "optionA": "Leia",
+        "optionB": "Luke",
+        "optionC": "Han",
+        "optionD": "Jar-Jar",
+        "answer": "Leia"
+    },
+    {
+        "question": "What did Luke lose during his fight with Vader?",
+        "optionA": "His heart",
+        "optionB": "Leg",
+        "optionC": "Hand",
+        "optionD": "Hair",
+        "answer": "Hand"
+    },
+    {
+        "question": "Where did the Clone Wars begin?",
+        "optionA": "Tatooine",
+        "optionB": "Geonosis",
+        "optionC": "Naboo",
+        "optionD": "Jakku",
+        "answer": "Geonosis"
     }
 
 ]

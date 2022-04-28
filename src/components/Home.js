@@ -16,6 +16,7 @@ const Home = () => (
                 url={homeSong}
                 playStatus="PLAYING"
                 loop={true} 
+                volume={35}
                 />
             <section>
                 <div className='quizNameHome'>
