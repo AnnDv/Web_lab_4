@@ -93,7 +93,7 @@ class Play extends Component {
     }
 
     handleQuitButtonClick = () => {
-        if (window.confirm("Are you sure you want to quit?")){
+        if (window.confirm("Your path you must decide!")){
             
         }
     };
